@@ -1,7 +1,5 @@
 ## French student in AI
 
-Curious, I am learning the workings of machine and deep learning to implement them in various systems.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="margin: 10px;">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" style="margin: 10px;">
