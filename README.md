@@ -1,12 +1,12 @@
 ## French student in AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/Matplotlib-263238?style=flat&logo=DataVisualization&logoColor=white" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="margin: 10px;">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" style="margin: 50px;">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" style="margin: 50px;">
+  <img src="https://img.shields.io/badge/Matplotlib-263238?style=flat&logo=DataVisualization&logoColor=white" style="margin: 50px;">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="margin: 50px;">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" style="margin: 50px;">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" style="margin: 10px;">
